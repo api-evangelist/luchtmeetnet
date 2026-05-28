@@ -1,0 +1,32 @@
+aid: luchtmeetnet
+name: Luchtmeetnet
+description: "Predicted and actual air quality components for The Netherlands (RIVM)"
+url: https://api-docs.luchtmeetnet.nl/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: Luchtmeetnet
+    description: "Predicted and actual air quality components for The Netherlands (RIVM)"
+    humanURL: https://api-docs.luchtmeetnet.nl/
+    baseURL: https://api-docs.luchtmeetnet.nl/
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://api-docs.luchtmeetnet.nl/
+common:
+  - type: Website
+    url: https://api-docs.luchtmeetnet.nl/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
