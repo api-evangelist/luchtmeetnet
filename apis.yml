@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api-docs.luchtmeetnet.nl/
 common:
+  - type: DomainSecurity
+    url: security/luchtmeetnet-domain-security.yml
   - type: Website
     url: https://api-docs.luchtmeetnet.nl/
   - type: PublicAPIsListing
