@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/luchtmeetn
 name: Luchtmeetnet
 description: "Predicted and actual air quality components for The Netherlands (RIVM)"
 url: https://api-docs.luchtmeetnet.nl/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
