@@ -39,7 +39,6 @@ apis:
   - name: Luchtmeetnet
     description: "Predicted and actual air quality components for The Netherlands (RIVM)"
     humanURL: https://api-docs.luchtmeetnet.nl/
-    baseURL: https://api-docs.luchtmeetnet.nl/
     tags:
       - Environment
     properties:
